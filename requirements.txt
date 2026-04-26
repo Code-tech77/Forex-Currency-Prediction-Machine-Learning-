@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+streamlit
+openpyxl
+joblib
+matplotlib
+
+### Command to run the Streamline app : 
+### streamlit run {File Path}
