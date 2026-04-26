@@ -21,9 +21,11 @@ The goal is to build an **end to end machine learning pipeline** to analyze and 
 
 A full ML workflow covering data collection, preprocessing, feature engineering, model training, evaluation, and prediction.
 
+
 💱 Forex (Foreign Exchange)
 
 The global market for trading currencies, where price movements are influenced by economic and market factors.
+
 
 💱 LightGBM (Light Gradient Boosting Machine)
 
